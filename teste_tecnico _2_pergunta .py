@@ -1,5 +1,5 @@
 teste_tecnico_2pergunta .py
-def fibonacci(n):
+def fibonacci(n): 
     a, b = 0, 1
     while a <= n:
         if a == n:
